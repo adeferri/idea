@@ -6,7 +6,7 @@ var ParseServer = require('parse-server').ParseServer;
 var path = require('path');
 
 // var databaseUri = process.env.DATABASE_URI || process.env.MONGODB_URI;
-var databaseUri = 'mongodb://adeferri:dfrgrr1612@ds063715.mlab.com:63715/heroku_vq621cdh';
+var databaseUri = 'mongodb+srv://dbUser1:fyu2JhvhxWHzAZKg@cluster-vq621cdh.am0bq.mongodb.net/cluster-vq621cdh?retryWrites=true&w=majority';
 // 'mongodb://usrsafe:pwdsafe@ds063715.mlab.com:63715/heroku_vq621cdh';
 
 if (!databaseUri) {
