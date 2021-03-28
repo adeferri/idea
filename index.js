@@ -7,7 +7,7 @@ var path = require('path');
 
 // var databaseUri = process.env.DATABASE_URI || process.env.MONGODB_URI;
 
-var databaseUri = "mongodb+srv://dbUser1:fyu2JhvhxWHzAZKg@cluster-vq621cdh.am0bq.mongodb.net/test?retryWrites=true&w=majority";
+//var databaseUri = "mongodb+srv://dbUser1:fyu2JhvhxWHzAZKg@cluster-vq621cdh.am0bq.mongodb.net/test?retryWrites=true&w=majority";
 // var databaseUri = 'mongodb://dbUser1:fyu2JhvhxWHzAZKg@cluster-vq621cdh.am0bq.mongodb.net/heroku_vq621cdh';
 // var databaseUri = 'mongodb://usrsafe:pwdsafe@ds063715.mlab.com:63715/heroku_vq621cdh';
 
